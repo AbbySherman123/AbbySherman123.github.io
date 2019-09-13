@@ -1,1 +1,1 @@
-# GeoJSON Map of Main
+# GeoJSON Map of Maine
